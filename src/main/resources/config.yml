@@ -1,0 +1,8 @@
+# Total time in seconds(80sec = 1min + 20sec)
+
+TotalTime: 80
+
+# Messages
+
+YouDie: "&cYou died! You will respawn throught:"
+TimerColor: "&c"

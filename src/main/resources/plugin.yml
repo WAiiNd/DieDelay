@@ -1,0 +1,6 @@
+name: DieDelay
+version: ${project.version}
+main: ru.kernel.DieDelay
+api-version: 1.16
+authors: [ KernelPanic ]
+description: Plugin for delay if player is die!
