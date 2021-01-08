@@ -15,5 +15,3 @@
 - Запускается на ядрах Paper/Spigot(Может быть Bukkit)
 
 - Нужна помощь с использованием DieDelay? Заходи в мой дискорд сервер! [KPCommunity](https://discord.gg/8RrmdCfVqZ)
-
-1
