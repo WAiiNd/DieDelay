@@ -1,4 +1,3 @@
-# DieDelay
+# DieDelay - plugin for delay on respawn!
 
-Plugin for minecraft adding a delay of respawn
-
+# EN
